@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-# Set confidence
+# Set confidence threshold
 confidenceThreshold = 0.5
 
 modelConfiguration = 'cfg/yolov3.cfg'
