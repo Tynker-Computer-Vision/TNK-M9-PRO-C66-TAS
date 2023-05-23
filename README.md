@@ -11,6 +11,5 @@ To run the project follow the below commands:
 * source myenv/bin/activate ( For Linux & Mac )
 * myenv/Scripts/activate.bat ( Windows )
 * pip install -r requirements.txt
-* python3 main.py
 * Download yolov3.weights : https://pjreddie.com/media/files/yolov3.weights
 ```
