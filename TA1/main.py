@@ -10,7 +10,7 @@ modelWeights = 'yolov3.weights'
 yoloNetwork = cv2.dnn.readNetFromDarknet(modelConfiguration, modelWeights)
 
 # Load image
-image = cv2.imread('static/img3.jpg')
+image = cv2.imread('static/img1.jpg')
 
 # Get image dimensions
 dimensions = image.shape[:2]
